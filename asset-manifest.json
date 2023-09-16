@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/React_App_NoteTaking/static/css/main.1b94a5fc.css",
+    "main.js": "/React_App_NoteTaking/static/js/main.30c21d85.js",
+    "static/media/logo.png": "/React_App_NoteTaking/static/media/logo.315049585a3f17f41469.png",
+    "index.html": "/React_App_NoteTaking/index.html",
+    "main.1b94a5fc.css.map": "/React_App_NoteTaking/static/css/main.1b94a5fc.css.map",
+    "main.30c21d85.js.map": "/React_App_NoteTaking/static/js/main.30c21d85.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b94a5fc.css",
+    "static/js/main.30c21d85.js"
+  ]
+}
